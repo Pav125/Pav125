@@ -2,6 +2,11 @@
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=Pav125&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
+# My GitHub Streak
+
+<!-- Change the `YOUR_GITHUB_USERNAME` to your GitHub username -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pav125)
+
 <!--
 **Pav125/Pav125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
