@@ -1,11 +1,10 @@
 # Hi, I'm Devi Pavan! 👋
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=Pav125&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![My Stats](https://github-readme-stats.vercel.app/api?username=Pav125&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&custom_title_color=FF5733)
 
 # My GitHub Streak
 
-<!-- Change the `YOUR_GITHUB_USERNAME` to your GitHub username -->
-![My Stats](https://github-readme-stats.vercel.app/api?username=Pav125&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&custom_title_color=FF5733)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pav125&theme=vue-dark&hide_border=true)
 
 <!--
 **Pav125/Pav125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
